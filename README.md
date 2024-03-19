@@ -37,7 +37,7 @@ Aplikacja "LLingo" została zbudowana przy użyciu następujących technologii:
 
 ## Wsparcie i Kontakt
 
-Jeśli masz jakiekolwiek pytania lub problemy związane z aplikacją "LLingo", skontaktuj się z nami pod adresem [adres_email@domena.com](mailto:adres_email@domena.com). Jesteśmy gotowi pomóc i odpowiedzieć na Twoje pytania.
+Jeśli masz jakiekolwiek pytania lub problemy związane z aplikacją "LLingo", skontaktuj się z nami pod adresem [niesluchowskipiotr@outlook.com](mailto:niesluchowskipiotr@outlook.com). Jesteśmy gotowi pomóc i odpowiedzieć na Twoje pytania.
 
 
 
