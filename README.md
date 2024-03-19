@@ -1,4 +1,4 @@
-Skrypt login.php
+#Skrypt login.php
 Opis:
 Skrypt login.php obsługuje proces logowania użytkownika.
 
