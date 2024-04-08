@@ -80,7 +80,7 @@ Jeśli masz jakiekolwiek pytania lub problemy związane z aplikacją "LLingo", s
 
 ## Wersja 1.0.1 (2024-04-08)
 
-- Usunięcię błędów
+- Usunięcię błędu związnaego z usuwaniem decków
 
 
 
